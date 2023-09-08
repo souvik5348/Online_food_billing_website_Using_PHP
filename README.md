@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🍔 FoodBills</h1>
+    <h1>🍔 Let's Eat</h1>
     <p>
        Online Food Billing System For Restrurents 🥘💳
     </p>
